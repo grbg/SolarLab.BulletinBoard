@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarLab.BulletinBoard", "SolarLab.BulletinBoard.csproj", "{FE5C6262-0519-4CD1-91B9-BFE380E5B316}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B9C52CEB-53E5-436B-A446-5FD43EA9897B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5C6262-0519-4CD1-91B9-BFE380E5B316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5C6262-0519-4CD1-91B9-BFE380E5B316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5C6262-0519-4CD1-91B9-BFE380E5B316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5C6262-0519-4CD1-91B9-BFE380E5B316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFCAFFF-4511-41C7-8C10-233B6A0D6BAC}
+	EndGlobalSection
+EndGlobal
